@@ -17,6 +17,7 @@
   "dependencies": {
     "@fastify/cors": "^8.2.0",
     "@fastify/multipart": "^7.4.0",
+    "@fastify/static": "^6.8.0",
     "clamscan": "^2.1.2",
     "fastify": "^4.12.0",
     "fastify-plugin": "^4.5.0",
